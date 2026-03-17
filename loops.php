@@ -19,6 +19,15 @@ $products = [
     <head>
         <title>if, switch, match</title>
         <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>
+        <h1>The Candy store</h1>
+
+        <h2>Chocolate</h2>
+
+    <head>
+        <title>if, switch, match</title>
+        <link rel="stylesheet" href="./css/style.css">
 
     <body>
 
